@@ -14,4 +14,4 @@ y se midio el rendimiento mediante Cross Validation.
 En el trabajo se realizaron varios preprocesados con el objetivo de encontrar el óptimo para el modelo. Se eliminaron, imputaron y crearon variables, tambien, mediante la librería imbalanced-learn, se utilizó Smote para el balanceo de 
 datos en la variable objetivo. 
 
-Luego de varios intentos, el mejor score obtenido en la competición fue de 81.80% (tener en cuenta que la posición #1 en el ranking es de 82.94%).
+Luego de varios intentos, el mejor score obtenido en la competición fue de 81.80% (la posición #1 en el ranking es de 82.94%).
